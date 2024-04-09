@@ -32,34 +32,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Live Stats</title>
-  <script>
-    // Function to fetch live stats from the server
-    function fetchLiveStats() {
-      fetch('https://api.example.com/live-stats')
-        .then(response => response.json())
-        .then(data => {
-          // Update the stats on the webpage
-          document.getElementById('live-stats').innerText = data.value;
-        })
-        .catch(error => {
-          console.error('Error fetching live stats:', error);
-        });
-    }
-
-    // Function to fetch live stats periodically
-    function updateLiveStats() {
-      fetchLiveStats();
-      // Fetch live stats every 5 seconds
-      setInterval(fetchLiveStats, 5000);
-    }
-
-    // Start updating live stats when the page loads
-    window.onload = updateLiveStats;
-  </script>
 </head>
 <body>
   <h1>Live Stats:</h1>
   <div id="live-stats">Loading...</div>
+
+  <script>
+    // Function to generate a random number between min and max
+    function getRandomNumber(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    // Function to update the live stats
+    function updateLiveStats() {
+      // Generate a random number for demonstration purposes
+      const randomStat = getRandomNumber(0, 100);
+      document.getElementById('live-stats').innerText = `Live Stat: ${randomStat}`;
+    }
+
+    // Update the live stats every second
+    setInterval(updateLiveStats, 1000);
+
+    // Update the live stats when the page loads
+    window.onload = updateLiveStats;
+  </script>
 </body>
 </html>
 
