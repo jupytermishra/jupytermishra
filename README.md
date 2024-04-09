@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 </div>
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
