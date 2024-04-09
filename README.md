@@ -21,9 +21,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
     <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
   </a>
 </div>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Banner Ad</title>
+  <style>
+    .banner {
+      width: 100%;
+      max-width: 1200px;
+      height: auto;
+      display: flex;
+      justify-content: space-between;
+      margin: 0 auto;
+      padding: 10px;
+    }
+
+    .banner img {
+      width: 45%; /* Adjust the width as needed */
+      height: auto;
+      margin: 0 auto;
+      display: block;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .banner img {
+        width: 100%; /* For smaller screens, use full width */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <a href="https://github.com/jupytermishra-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" alt="Top Languages">
+    </a>
+  </div>
+</body>
+</html>
+
 
 
 
