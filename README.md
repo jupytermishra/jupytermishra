@@ -21,35 +21,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
     <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
   </a>
 </div>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .banner-ad {
-      width: 100%;
-      max-width: 1200px;
-      height: auto;
-      text-align: center;
-      margin: 0 auto;
-    }
-
-    .banner-ad img {
-      width: 100%;
-      height: auto;
-      max-width: 100%;
-    }
-  </style>
-</head>
-<body>
-  <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=320" alt="Banner Ad">
-  </a>
-</body>
-</html>
-
-
+<div class="banner-container">
+    <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=320" alt="Banner Ad">
+    </a>
+</div>
 
 
 
