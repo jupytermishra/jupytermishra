@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 </div>
 <div class="banner-container">
     <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=320" alt="Banner Ad">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=1200&card_height=300" alt="Banner Ad">
     </a>
 </div>
 
