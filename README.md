@@ -26,6 +26,42 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 </div>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Stats</title>
+  <script>
+    // Function to fetch live stats from the server
+    function fetchLiveStats() {
+      fetch('https://api.example.com/live-stats')
+        .then(response => response.json())
+        .then(data => {
+          // Update the stats on the webpage
+          document.getElementById('live-stats').innerText = data.value;
+        })
+        .catch(error => {
+          console.error('Error fetching live stats:', error);
+        });
+    }
+
+    // Function to fetch live stats periodically
+    function updateLiveStats() {
+      fetchLiveStats();
+      // Fetch live stats every 5 seconds
+      setInterval(fetchLiveStats, 5000);
+    }
+
+    // Start updating live stats when the page loads
+    window.onload = updateLiveStats;
+  </script>
+</head>
+<body>
+  <h1>Live Stats:</h1>
+  <div id="live-stats">Loading...</div>
+</body>
+</html>
 
 
 
