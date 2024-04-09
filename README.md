@@ -16,12 +16,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 ## Stats
 
-<a href="https://github.com/jupytermishra-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" />
-</a>
-<a href="https://github.com/jupytermishra-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jupytermishra&repo=github-readme-stats" />
-</a>
+<div style="max-width: 1200px; height: 300px; margin: auto;">
+  <a href="https://github.com/jupytermishra-readme-stats">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
+  </a>
+</div>
+
+
 
 
 
