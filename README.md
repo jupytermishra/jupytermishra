@@ -15,6 +15,44 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 
 
+## Live Update Banner
+
+<div id="live-update-banner">
+  <p id="live-update-text">Fetching live data...</p>
+</div>
+<style>
+  #live-update-banner {
+    background-color: #f8d7da; /* Red background color */
+    color: #721c24; /* Dark red text color */
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+</style>
+<script>
+  // Function to fetch live data
+  function fetchLiveUpdate() {
+    // Replace this URL with your own endpoint to fetch live data
+    fetch('https://api.example.com/live-data')
+      .then(response => response.json())
+      .then(data => {
+        // Update the text in the banner with the live data
+        document.getElementById('live-update-text').innerText = `Live data: ${data.value}`;
+      })
+      .catch(error => {
+        console.error('Error fetching live data:', error);
+        // Update the text in the banner with error message
+        document.getElementById('live-update-text').innerText = 'Error fetching live data';
+      });
+  }
+
+  // Fetch live update on page load
+  fetchLiveUpdate();
+
+  // Fetch live update every 5 seconds
+  setInterval(fetchLiveUpdate, 5000);
+</script>
 
 
 
