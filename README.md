@@ -1,7 +1,5 @@
 # Hello, I'm Jupyter Mishra!
 
-<![Profile Banner](https://placehold.it/1200x300)>
-
 I'm a [Your Profession/Interest]. Welcome to my GitHub profile!
 
 ## About Me
