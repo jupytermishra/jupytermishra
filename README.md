@@ -10,9 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 ## Connect with Me
 
-[![Medium](https://img.shields.io/badge/Medium-%40-%230A0A0A?style=flat&logo=Medium)](https://medium.com/@jupytermishra)
-[![Twitter](https://img.shields.io/badge/Twitter-%40-%231DA1F2?style=flat&logo=Twitter)](https://twitter.com/jupytermishra)
-[![Instagram](https://img.shields.io/badge/Instagram-%40-%23E4405F?style=flat&logo=Instagram)](https://www.instagram.com/jupytermishra/)
+[![Medium](https://img.shields.io/badge/Medium-%40jupytermishra-%230A0A0A?style=flat&logo=Medium)](https://medium.com/@jupytermishra)
+[![Twitter](https://img.shields.io/badge/Twitter-%40jupytermishra-%231DA1F2?style=flat&logo=Twitter)](https://twitter.com/jupytermishra)
+[![Instagram](https://img.shields.io/badge/Instagram-%40jupytermishra-%23E4405F?style=flat&logo=Instagram)](https://www.instagram.com/jupytermishra/)
 
 ## Stats
 
