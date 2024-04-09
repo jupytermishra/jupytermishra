@@ -18,16 +18,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 <div style="max-width: 1200px; height: 300px; margin: auto;">
   <a href="https://github.com/jupytermishra-readme-stats">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra&card_width=1200&card_height=300" alt="Banner Ad" />
+    <img style="width: 50%; height: auto; float: left;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra&card_width=600&card_height=300" alt="Banner Ad 1" />
+  </a>
+  <a href="https://github.com/jupytermishra/convoychat">
+    <img style="width: 50%; height: auto; float: right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=600&card_height=300" alt="Banner Ad 2">
   </a>
 </div>
 
-</div>
-<div class="banner-container">
-    <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=1200&card_height=300" alt="Banner Ad">
-    </a>
-</div>
 
 
 
