@@ -22,6 +22,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
   </a>
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Responsive Banner Ad</title>
+</head>
+<body>
+
+<div style="max-width: 1200px; height: 300px; margin: auto;">
+  <a href="https://github.com/jupytermishra-readme-stats">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
+  </a>
+</div>
+
+</body>
+</html>
+
+
 
 
 
