@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 ## Stats
 
-<div style="max-width: 1200px; height: 300px; margin: auto;">
+<div style="max-width: 300px; height: 300px; margin: auto;">
   <a href="https://github.com/jupytermishra-readme-stats">
     <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
   </a>
