@@ -16,6 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 ## Stats
 
-![jupytermishra GitHub stats](https://github-readme-stats.vercel.app/api?username=jupytermishra&show_icons=true&theme=transparent)
+![jupytermishra GitHub stats](https://github-readme-stats.vercel.app/api?username=jupytermishra&show_icons=true&theme=radical)
+
 
 
