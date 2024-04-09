@@ -26,41 +26,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsive Banner Ad</title>
   <style>
-    .banner {
+    .banner-ad {
       width: 100%;
       max-width: 1200px;
       height: auto;
-      display: flex;
-      justify-content: space-between;
+      text-align: center;
       margin: 0 auto;
-      padding: 10px;
     }
 
-    .banner img {
-      width: 45%; /* Adjust the width as needed */
+    .banner-ad img {
+      width: 100%;
       height: auto;
-      margin: 0 auto;
-      display: block;
-    }
-
-    @media only screen and (max-width: 768px) {
-      .banner img {
-        width: 100%; /* For smaller screens, use full width */
-      }
+      max-width: 100%;
     }
   </style>
 </head>
 <body>
-  <div class="banner">
-    <a href="https://github.com/jupytermishra-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" alt="Top Languages">
-    </a>
-  </div>
+  <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jupytermishra&layout=compact&langs_count=8&card_width=320" alt="Banner Ad">
+  </a>
 </body>
 </html>
 
