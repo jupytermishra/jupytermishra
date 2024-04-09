@@ -16,10 +16,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae justo eget 
 
 ## Stats
 
-<div style="max-width: 1200px; height: 100px; margin: auto;">
+<div style="max-width: 1200px; height: 300px; margin: auto;">
   <a href="https://github.com/jupytermishra-readme-stats">
-    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra" alt="Banner Ad" />
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=jupytermishra&card_width=1200&card_height=300" alt="Banner Ad" />
   </a>
+</div>
+
 </div>
 <div class="banner-container">
     <a href="https://github.com/jupytermishra/convoychat" class="banner-ad">
