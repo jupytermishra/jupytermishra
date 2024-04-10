@@ -21,14 +21,15 @@ I am a Data Science Educator and Artificial Intelligence Researcher. I am passio
 
 
 ##  Insights
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=165263595&activity_type=all" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=165263595&activity_type=all" target="_blank" style="display: block; text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=165263595&activity_type=all&image_size=auto&color_scheme=dark" width="1100" height="auto">
     <img alt="@jupytermishra's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=165263595&activity_type=all&image_size=auto&color_scheme=light" width="1100" height="auto">
   </picture>
 </a>
+
+
+
 
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=165263595&period=all_times" target="_blank" style="display: block" align="center">
@@ -37,6 +38,7 @@ I am a Data Science Educator and Artificial Intelligence Researcher. I am passio
     <img alt="Contribution Time Distribution of @jupytermishra" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=165263595&period=all_times&image_size=auto&color_scheme=light" width="1100" height="auto">
   </picture>
 </a>
+
 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=165263595" target="_blank" style="display: block" align="center">
