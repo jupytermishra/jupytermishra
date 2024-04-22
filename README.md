@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/jupytermishra/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=TimesNewRoman&color=4CAF50&size=32&center=true&vCenter=true&width=800&height=100&lines=🌟+Welcome+to+My+Horizon+🌟,;🧠+Data+Science+Enthusiast,;🤖+Artificial+Intelligence+and+Robotics+Lover,;📚+Formal+and+Natural+Science+Student,;🔍+Active+Learner+and+Researcher,;💡+Passionate+about+Learning+New+Things+💡">
+    <img src="https://readme-typing-svg.herokuapp.com?font=TimesNewRoman&color=4CAF50&size=32&center=true&vCenter=true&width=800&height=100&lines=🌟+Welcome+to+My+Horizon+🌟,;🧠+Data+Science+Enthusiast,;🤖+Artificial+Intelligence+and+Robotics+Lover,;📚+Formal+Science+and+Natural+Science+Student,;🔍+Active+Learner+and+Researcher,;💡+Passionate+about+Learning+New+Things+💡">
   </a>
 </p>
 
