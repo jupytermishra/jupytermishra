@@ -20,12 +20,27 @@ I am a student who is caught between the chaotic frequencies of formal science a
 
 
 ##  Insights
+
+<div align="center">
+
+[![jupytermishra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jupytermishra&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/jupytermishra)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jupytermishra?cardType=github&theme=dark&preferLogin=false&Background=000000&size=big)](https://git.io/awesome-stats-card)
+    
+[![jupytermishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jupytermishra&theme=dark&hide_border=true&size=big)](https://github.com/jupytermishra)
+
+</div>
+
+
+
+
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=165263595&activity_type=all" target="_blank" style="display: block; text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=165263595&activity_type=all&image_size=auto&color_scheme=dark" width="1100" height="auto">
     <img alt="@jupytermishra's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=165263595&activity_type=all&image_size=auto&color_scheme=light" width="1100" height="auto">
   </picture>
 </a>
+
 
 
 
