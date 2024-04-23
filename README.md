@@ -1,3 +1,4 @@
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jupytermishra&label=Profile%20views&color=0e75b6&style=flat" alt="jupytermishra" /> </p>
 <h1 align="center"><b>Hi , I'm Jupyter Mishra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -8,11 +9,6 @@
 </p>
 
 
-
-
-
-<br>
-
 ## About Me
 I am a student who is caught between the chaotic frequencies of formal science and natural science. I demonstrate my thoughts and the questions I ask myself, with the help of Data Science & AI knowledge. I share it with you through my writing. I hope that my learning, understanding, and continuous efforts will lead human life towards betterment.
 ## Languages and Tools
@@ -22,14 +18,15 @@ I am a student who is caught between the chaotic frequencies of formal science a
 ##  Insights
 
 <div align="center">
-
-[![jupytermishra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jupytermishra&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/jupytermishra)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jupytermishra?cardType=github&theme=dark&preferLogin=false&Background=000000&size=big)](https://git.io/awesome-stats-card)
-    
+  
 [![jupytermishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jupytermishra&theme=dark&hide_border=true&size=big)](https://github.com/jupytermishra)
+  
+[![jupytermishra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jupytermishra&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/jupytermishra)
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jupytermishra?cardType=github&theme=dark&preferLogin=false&Background=000000&size=big)](https://git.io/awesome-stats-card)
 
 </div>
+
 
 
 
