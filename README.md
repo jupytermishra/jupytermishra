@@ -9,6 +9,13 @@
  <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jupytermishra?cardType=github&theme=dark&preferLogin=false&Background=000000&size=big)](https://git.io/awesome-stats-card)
+| Platform     | Purpose |
+|--------------|-----|
+| [![Medium](https://img.shields.io/badge/Medium-%40jupytermishra-%230A0A0A?style=flat&logo=Medium)](https://medium.com/@jupytermishra)    | Blogs & Tutorials | 
+| [![Twitter](https://img.shields.io/badge/Twitter-%40jupytermishra-%231DA1F2?style=flat&logo=Twitter)](https://twitter.com/jupytermishra)   | Information, Tips & Tricks | 
+| [![Instagram](https://img.shields.io/badge/Instagram-%40jupytermishra-%23E4405F?style=flat&logo=Instagram)](https://www.instagram.com/jupytermishra/) | Life & Photography | 
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-jupytermishra-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jupytermishra/) | Learn & Grow |
+
 
 </div> 
 
