@@ -20,7 +20,7 @@
 </div> 
 
 ## About Me
-I am a catalyst, fascinated by the convergence of chaotic vibrations in formal science and natural science. With a sense of curiosity and gain valuable insights using Data Science & Machine Learning, I am motivated to express my ideas and introspect through written words. I strongly hold the belief that my commitment to education and unwavering quest for wisdom will enhance the quality of human existence.
+I'm biological organisms, fascinated by the convergence of chaotic vibrations in formal science and natural science. With a sense of curiosity and gain valuable insights using Data Science & Machine Learning, I am motivated to express my ideas and introspect through written words. I strongly hold the belief that my commitment to education and unwavering quest for wisdom will enhance the quality of human existence.
 
 "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 ~ Nikola Tesla
