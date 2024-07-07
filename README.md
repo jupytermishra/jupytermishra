@@ -20,9 +20,9 @@
 </div> 
 
 ## About Me
-I'm biological organisms, fascinated by the convergence of chaotic vibrations in formal science and natural science. With a sense of curiosity and gain valuable insights using Data Science & Machine Learning, I am motivated to express my ideas and introspect through written words. I strongly hold the belief that my commitment to education and unwavering quest for wisdom will enhance the quality of human existence.
+I'm a biological organism, fascinated by the convergence of chaotic energies in formal and natural science. With a sense of curiosity and gaining valuable insights using a collection of vectors & mathematical simplification of reality, I am motivated to express my ideas and introspect through written words. My commitment to education and relentless pursuit of wisdom will enhance the quality of human existence.
 
-"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
+"If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration."
 ~ Nikola Tesla
 ## Languages and Tools
 
